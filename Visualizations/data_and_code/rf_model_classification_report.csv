@@ -1,0 +1,51 @@
+Breeds,precision,recall,f1-score
+Australian Cattle Dog,1.0,1.0,1.0
+Australian Shepherd,1.0,1.0,1.0
+Basset Hound,1.0,1.0,1.0
+Beagle,1.0,1.0,1.0
+Belgian Malinois,1.0,1.0,1.0
+Bernese Mountain Dog,1.0,1.0,1.0
+Bichon Frise,1.0,1.0,1.0
+Bloodhound,0.0,0.0,0.0
+Border Collie,1.0,1.0,1.0
+Boston Terrier,1.0,1.0,1.0
+Boxer,1.0,1.0,1.0
+Brittany,1.0,0.967741935483871,0.9836065573770492
+Bulldog,1.0,1.0,1.0
+Cane Corso,1.0,1.0,1.0
+Cavalier King Charles Spaniel,1.0,1.0,1.0
+Chihuahua,1.0,1.0,1.0
+Cocker Spaniel,1.0,1.0,1.0
+Collie,1.0,1.0,1.0
+Dachshund,1.0,1.0,1.0
+Dalmatian,1.0,1.0,1.0
+Doberman Pinscher,1.0,1.0,1.0
+English Cocker Spaniel,1.0,1.0,1.0
+English Springer Spaniel,1.0,1.0,1.0
+French Bulldog,1.0,1.0,1.0
+German Shepherd Dog,1.0,1.0,1.0
+German Shorthaired Pointer,1.0,1.0,1.0
+Golden Retriever,1.0,1.0,1.0
+Great Dane,1.0,1.0,1.0
+Havanese,1.0,1.0,1.0
+Labrador Retriever,1.0,1.0,1.0
+Maltese,1.0,1.0,1.0
+Mastiff,1.0,1.0,1.0
+Miniature American Shepherd,1.0,1.0,1.0
+Miniature Schnauzer,1.0,1.0,1.0
+Newfoundland,1.0,1.0,1.0
+Pembroke Welsh Corgi,1.0,1.0,1.0
+Pomeranian,1.0,1.0,1.0
+Poodle,1.0,1.0,1.0
+Portuguese Water Dog,1.0,1.0,1.0
+Pug,1.0,1.0,1.0
+Rhodesian Ridgeback,0.8910256410256411,1.0,0.9423728813559323
+Rottweiler,1.0,1.0,1.0
+Shetland Sheepdog,1.0,1.0,1.0
+Shiba Inu,1.0,1.0,1.0
+Shih Tzu,1.0,1.0,1.0
+Siberian Husky,1.0,1.0,1.0
+Vizsla,1.0,1.0,1.0
+Weimaraner,0.99375,1.0,0.9968652037617556
+West Highland White Terrier,1.0,1.0,1.0
+Yorkshire Terrier,1.0,1.0,1.0
