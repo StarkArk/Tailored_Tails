@@ -1,14 +1,21 @@
 # Tailored Tails, Find Your Perfect Pup  
   
- ## Finding Your Ideal Dog Companion
+![puppies](https://github.com/StarkArk/Tailored_Tails/blob/main/Visualizations/images/istockphoto-puppies.png)  
+  
+## Finding Your Ideal Dog Companion
 Our initiative, tailored_tails, is dedicated to helping potential dog owners navigate the adoption process with confidence. By collecting and analyzing diverse data within a Machine Learning Model, we provide personalized recommendations on dog breeds that best match individual lifestyles and preferences.
 
 ## Meet the Minds Behind tailored_tails
-Rebecca Bennett,
-Samantha Rose Pabalate,
-Cherif Arkam,
-Sung Youn Hutchison,
-Wingtung Lee
+
+![Rebecca](https://github.com/StarkArk/Tailored_Tails/blob/main/Visualizations/images/Profiles_Project_Members/Rebecca.png) Rebecca Bennett
+
+![Sam](https://github.com/StarkArk/Tailored_Tails/blob/main/Visualizations/images/Profiles_Project_Members/Sam.png) Samantha Rose Pabalate
+
+![Cherif](https://github.com/StarkArk/Tailored_Tails/blob/main/Visualizations/images/Profiles_Project_Members/Cherif.png) Cherif Arkam
+
+![Sungyoun](https://github.com/StarkArk/Tailored_Tails/blob/main/Visualizations/images/Profiles_Project_Members/Sungyoun.png) Sung Youn Hutchison
+
+![Wingtung](https://github.com/StarkArk/Tailored_Tails/blob/main/Visualizations/images/Profiles_Project_Members/Wingtung.png) Wingtung Lee
 
 ## Data Companions
 ### Finding the Perfect Dog Breed for You
