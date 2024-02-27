@@ -18,15 +18,15 @@ To identify the most suitable dog breed, we gathered the following information a
 * **Cost Considerations:** Regularity of Grooming, Overall Ownership Expenses 
   
 ## Resources
-### Libraries and Dependencies
-Python Pandas
-Python Matplotlib
-Python Seaborn
-Python Flask
-Python Scikit-learn
-Javascript
-HTML
-Tableau  
+### Libraries and Dependencies  
+Python Pandas  
+Python Matplotlib  
+Python Seaborn  
+Python Flask  
+Python Scikit-learn  
+Javascript  
+HTML  
+Tableau    
   
 ## References  
   
