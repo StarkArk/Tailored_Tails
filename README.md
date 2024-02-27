@@ -30,7 +30,9 @@ Tableau
 
 ## Model Performance  
   
-![RandomForest_Classification_Table](https://github.com/StarkArk/Tailored_Tails/blob/main/Visualizations/images/RandomForest_Model_Classification_Report.png)
+![RandomForest_Classification_Table](https://github.com/StarkArk/Tailored_Tails/blob/main/Visualizations/images/RandomForest_Model_Classification_Report.png)  
+  
+![RandomForest_Classification_Summary_Table](https://github.com/StarkArk/Tailored_Tails/blob/main/Visualizations/images/RandomForest_Model_Classification_Summary.png)
   
 ## References  
   
