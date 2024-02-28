@@ -63,7 +63,7 @@ Possible Reasons:
   
 - There are only 71 'Bloodhound' entries and the model was trained on a total 206,816 registrations. Perhaps there were not enough entries to pick up a distinct pattern.
 - The 'Bloodhound' could share common traits with other more prevalent Breeds.
-- The owner profiles for those who licensed a 'Bloodhound' could be diverse and the model may not be able to find a distinquishable pattern in it.  
+- The owner profiles for those who licensed a 'Bloodhound' could be diverse and the model may not be able to find a distinquishable pattern in them.  
      
 ## Additional Visualizations to Explore  
   
