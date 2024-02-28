@@ -5,6 +5,10 @@
 ## Finding Your Ideal Dog Companion
 Our initiative, tailored_tails, is dedicated to helping potential dog owners navigate the adoption process with confidence. By collecting and analyzing diverse data within a Machine Learning Model, we provide personalized recommendations on dog breeds that best match individual lifestyles and preferences.
 
+## Our Dogs, A New York Story  
+  
+[Tableau Link]()
+
 ## Meet the Minds Behind tailored_tails
 
 ![Rebecca](https://github.com/StarkArk/Tailored_Tails/blob/main/Visualizations/images/Profiles_Project_Members/Rebecca.png) Rebecca Bennett
@@ -35,12 +39,24 @@ Javascript
 HTML  
 Tableau    
 
+## Modelling Process 
+  
+After pulling the dog breed, NYC, and related data from [various sources](https://github.com/StarkArk/Tailored_Tails/tree/main/Exploration/doggy_data) we created cleaned csv files. These [files](https://github.com/StarkArk/Tailored_Tails/tree/main/Exploration/cleaned_data)
+were then merged together and further cleaned. The product csv [file](https://github.com/StarkArk/Tailored_Tails/blob/main/Modeling/preprocessed_doggy.csv) was then used in our modelling [notebooks](https://github.com/StarkArk/Tailored_Tails/tree/main/Modeling) to produce 
+our ['Random Forest Model'](https://github.com/StarkArk/Tailored_Tails/blob/main/Modeling/breed_rf_model.pkl). 24 features are used to predict 50 possible targets(Breeds). With some experimentation we settled on Random Forest Classifier model. Other models are explored as well and
+after some optimization they produced results that were in line with that obtained from the Random Forest Classifier.
+
 ## Model Performance  
   
 ![RandomForest_Classification_Table](https://github.com/StarkArk/Tailored_Tails/blob/main/Visualizations/images/RandomForest_Model_Classification_Report.png)  
   
 ![RandomForest_Classification_Summary_Table](https://github.com/StarkArk/Tailored_Tails/blob/main/Visualizations/images/RandomForest_Model_Classification_Summary.png)
   
+## Model Discussion  
+  
+Our predictive model demonstrated a high degree of accuracy for 49 out of the 50 top breeds(American Kennel Club) with an overall accuracy exceeding 99%. The 'Bloodhound' was the odd dog out of the group. We believe this was due to the 'Bloodhound'
+having similar traits to other dogs in the dataset and having fewer examples represented in the data compared to the other breeds. 
+
 ## References  
   
 #### NYC Open Data
