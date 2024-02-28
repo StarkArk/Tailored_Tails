@@ -6,8 +6,8 @@
 Our initiative, tailored_tails, is dedicated to helping potential dog owners navigate the adoption process with confidence. By collecting and analyzing diverse data within a Machine Learning Model, we provide personalized recommendations on dog breeds that best match individual lifestyles and preferences.
 
 ## Our Dogs, A New York Story  
-  
-[Tableau Link]()
+
+A New York Dog Story: [Tableau Story](https://public.tableau.com/app/profile/wingtung.lee/viz/UCB_Bootcamp_Project4-5/Story1)
 
 ## Meet the Minds Behind tailored_tails
 
