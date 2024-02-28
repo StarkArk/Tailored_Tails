@@ -23,7 +23,7 @@ Our initiative, tailored_tails, is dedicated to helping potential dog owners nav
 
 ## Data Companions
 ### Finding the Perfect Dog Breed for You
-To identify the most suitable dog breed, we gathered the following information and integrated it into our machine learning model:
+To identify the most suitable dog breed, we gathered the following information and integrated some of them into our machine learning model:
 * **Characteristics of the Dog:** Ability to Learn, Personality, Activity Level
 * **Lifestyle of the Owner:** Gender, Age, Type of Family, Living Area
 * **Cost Considerations:** Regularity of Grooming, Overall Ownership Expenses 
