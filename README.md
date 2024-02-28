@@ -57,6 +57,10 @@ after some optimization they produced results that were in line with that obtain
 Our predictive model demonstrated a high degree of accuracy for 49 out of the 50 top breeds(American Kennel Club) with an overall accuracy exceeding 99%. The 'Bloodhound' was the odd dog out of the group. We believe this was due to the 'Bloodhound'
 having similar traits to other dogs in the dataset and having fewer examples represented in the data compared to the other breeds. 
 
+## Additional Visualizations to Explore  
+  
+[Visualizations Folder](https://github.com/StarkArk/Tailored_Tails/tree/main/Visualizations/images)
+
 ## References  
   
 #### NYC Open Data
