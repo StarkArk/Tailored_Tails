@@ -57,6 +57,14 @@ after some optimization they produced results that were in line with that obtain
 Our predictive model demonstrated a high degree of accuracy for 49 out of the 50 top breeds(American Kennel Club) with an overall accuracy exceeding 99%. The 'Bloodhound' was the odd dog out of the group. We believe this was due to the 'Bloodhound'
 having similar traits to other dogs in the dataset and having fewer examples represented in the data compared to the other breeds. 
 
+#### Why isn't the model able to predict 'Bloodhounds' accurately?  
+  
+Possible Reasons:  
+  
+- There are only 71 'Bloodhound' entries and the model was trained on a total 206,816 registrations. Perhaps there were not enough entries to pick up a distinct pattern.
+- The 'Bloodhound' could share common traits with other more prevalent Breeds.
+- The owner profiles for those who licensed a 'Bloodhound' could be diverse and the model may not be able to find a distinquishable pattern in it.  
+     
 ## Additional Visualizations to Explore  
   
 [Visualizations Folder](https://github.com/StarkArk/Tailored_Tails/tree/main/Visualizations/images)
