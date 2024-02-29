@@ -11,6 +11,8 @@ A New York Dog Story: [Tableau Story](https://public.tableau.com/app/profile/win
 
 ## Meet the Minds Behind tailored_tails
 
+![The_Team](https://github.com/StarkArk/Tailored_Tails/blob/main/Visualizations/images/Profiles_Project_Members/Rebecca.png)
+
 ![Rebecca](https://github.com/StarkArk/Tailored_Tails/blob/main/Visualizations/images/Profiles_Project_Members/Rebecca.png) Rebecca Bennett
 
 ![Sam](https://github.com/StarkArk/Tailored_Tails/blob/main/Visualizations/images/Profiles_Project_Members/Sam.png) Samantha Rose Pabalate
@@ -37,7 +39,8 @@ Python Flask
 Python Scikit-learn  
 Javascript  
 HTML  
-Tableau    
+Google Colab   
+Tableau  
 
 ## Modelling Process 
   
