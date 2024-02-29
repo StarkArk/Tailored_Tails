@@ -15,7 +15,7 @@ A New York Dog Story: [Tableau Story](https://public.tableau.com/app/profile/win
   
 ## Data Companions
 ### Finding the Perfect Dog Breed for You
-To identify the most suitable dog breed, we gathered the following information and integrated some of them into our machine learning model:
+To identify the most suitable dog breed, we gathered the following information and integrated some of it into our machine learning model:
 * **Characteristics of the Dog:** Ability to Learn, Personality, Activity Level
 * **Lifestyle of the Owner:** Gender, Age, Type of Family, Living Area
 * **Cost Considerations:** Regularity of Grooming, Overall Ownership Expenses  
@@ -32,8 +32,8 @@ To identify the most suitable dog breed, we gathered the following information a
   
 After pulling the dog breed, NYC, and related data from [various sources](https://github.com/StarkArk/Tailored_Tails/tree/main/Exploration/doggy_data) we created cleaned csv files. These [files](https://github.com/StarkArk/Tailored_Tails/tree/main/Exploration/cleaned_data)
 were then merged together and further cleaned. The product csv [file](https://github.com/StarkArk/Tailored_Tails/blob/main/Modeling/preprocessed_doggy.csv) was then used in our modelling [notebooks](https://github.com/StarkArk/Tailored_Tails/tree/main/Modeling) to produce 
-our ['Model'](https://github.com/StarkArk/Tailored_Tails/blob/main/Modeling/breed_rf_model.pkl). 24 features were used to predict 50 possible targets(Breeds). With some experimentation we settled on a Random Forest Classifier model. Other models were explored as well and
-,after some optimization, they produced results that were in line with what was obtained from the Random Forest Classifier.
+our ['Model'](https://github.com/StarkArk/Tailored_Tails/blob/main/Modeling/breed_rf_model.pkl). 24 features were used to predict 50 possible targets(Breeds). With some experimentation we settled on a Random Forest Classifier model. Other models were explored as well and, 
+after some optimization, they produced results that were in line with what was obtained from the Random Forest Classifier.
 
 ## Model Performance  
   
