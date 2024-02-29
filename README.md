@@ -12,17 +12,7 @@ A New York Dog Story: [Tableau Story](https://public.tableau.com/app/profile/win
 ## Meet the Minds Behind tailored_tails
 
 ![The_Team](https://github.com/StarkArk/Tailored_Tails/blob/main/Visualizations/images/Profiles_Project_Members/our_team.PNG)
-
-![Rebecca](https://github.com/StarkArk/Tailored_Tails/blob/main/Visualizations/images/Profiles_Project_Members/Rebecca.png) Rebecca Bennett
-
-![Sam](https://github.com/StarkArk/Tailored_Tails/blob/main/Visualizations/images/Profiles_Project_Members/Sam.png) Samantha Rose Pabalate
-
-![Cherif](https://github.com/StarkArk/Tailored_Tails/blob/main/Visualizations/images/Profiles_Project_Members/Cherif.png) Cherif Arkam
-
-![Sungyoun](https://github.com/StarkArk/Tailored_Tails/blob/main/Visualizations/images/Profiles_Project_Members/Sungyoun.png) Sung Youn Hutchison
-
-![Wingtung](https://github.com/StarkArk/Tailored_Tails/blob/main/Visualizations/images/Profiles_Project_Members/Wingtung.png) Wingtung Lee
-
+  
 ## Data Companions
 ### Finding the Perfect Dog Breed for You
 To identify the most suitable dog breed, we gathered the following information and integrated some of them into our machine learning model:
