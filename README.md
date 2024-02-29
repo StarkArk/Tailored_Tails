@@ -22,26 +22,18 @@ To identify the most suitable dog breed, we gathered the following information a
   
 ## Web App  
   
-![Front Page](https://github.com/StarkArk/Tailored_Tails/blob/main/Visualizations/images/web_app_frontpage.png)  
+![Front Page](https://github.com/StarkArk/Tailored_Tails/blob/main/Visualizations/images/web_app_frontpage.png) 
   
-## Resources
-### Libraries and Dependencies  
-Python Pandas  
-Python Matplotlib  
-Python Seaborn  
-Python Flask  
-Python Scikit-learn  
-Javascript  
-HTML  
-Google Colab   
-Tableau  
-
+## Additional Visualizations to Explore  
+  
+[Visualizations Folder](https://github.com/StarkArk/Tailored_Tails/tree/main/Visualizations/images)  
+  
 ## Modelling Process 
   
 After pulling the dog breed, NYC, and related data from [various sources](https://github.com/StarkArk/Tailored_Tails/tree/main/Exploration/doggy_data) we created cleaned csv files. These [files](https://github.com/StarkArk/Tailored_Tails/tree/main/Exploration/cleaned_data)
 were then merged together and further cleaned. The product csv [file](https://github.com/StarkArk/Tailored_Tails/blob/main/Modeling/preprocessed_doggy.csv) was then used in our modelling [notebooks](https://github.com/StarkArk/Tailored_Tails/tree/main/Modeling) to produce 
-our ['Random Forest Model'](https://github.com/StarkArk/Tailored_Tails/blob/main/Modeling/breed_rf_model.pkl). 24 features are used to predict 50 possible targets(Breeds). With some experimentation we settled on Random Forest Classifier model. Other models are explored as well and
-after some optimization they produced results that were in line with that obtained from the Random Forest Classifier.
+our ['Random Forest Model'](https://github.com/StarkArk/Tailored_Tails/blob/main/Modeling/breed_rf_model.pkl). 24 features are used to predict 50 possible targets(Breeds). With some experimentation we settled on Random Forest Classifier model. Other models were explored as well and
+,after some optimization, they produced results that were in line with what was obtained from the Random Forest Classifier.
 
 ## Model Performance  
   
@@ -61,11 +53,19 @@ Possible Reasons:
 - There are only 71 'Bloodhound' entries and the model was trained on a total 206,816 registrations. Perhaps there were not enough entries to pick up a distinct pattern.
 - The 'Bloodhound' could share common traits with other more prevalent Breeds.
 - The owner profiles for those who licensed a 'Bloodhound' could be diverse and the model may not be able to find a distinquishable pattern in them.  
-     
-## Additional Visualizations to Explore  
   
-[Visualizations Folder](https://github.com/StarkArk/Tailored_Tails/tree/main/Visualizations/images)
-
+## Resources
+### Libraries and Dependencies  
+Python Pandas  
+Python Matplotlib  
+Python Seaborn  
+Python Flask  
+Python Scikit-learn  
+Javascript  
+HTML  
+Google Colab   
+Tableau  
+  
 ## References  
   
 #### NYC Open Data
