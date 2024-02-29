@@ -1,165 +1,165 @@
 ,Prop_ID,Name,Address,DogRuns_Type,Acres,Category,ZipCode,Borough
-0,X002,Bronx Park Off-Leash Area,Unionport & Sagamore on Bronx Park East to 233rd Street,Off-Leash,718.3729858,Large Park,10462,Bronx
-1,X008,Claremont Park Off-Leash Area,,Off-Leash,38.5359993,Large Park,10457,Bronx
-2,X010,Crotona Park Off-Leash Area,"Except for playgrounds and other areas where dogs are expressly prohibited via signage, all areas of the park are off-leash during designated hours.",Off-Leash,127.5,Large Park,10457,Bronx
-3,X019,Ewen Park Dog Run,"Riverdale to Johnson avenues, south of West 232nd Street",Run,7.84000015,Large Park,10463,Bronx
-4,X110A,Frank S. Hackett Park Dog Run,Riverdale Avenue at Henry Hudson Parkway,Run,1,Small Park,10471,Bronx
-5,X047,Franz Sigel Park Dog Run,"Center of the park, just north of the ballfields which would line up with around 155th Street.",Run,15.98999977,Large Park,10451,Bronx
-6,X080,Henry Hudson Park Off-Leash Area,Kappock Street and Independence Avenue,Off-Leash,8.97200012,Large Park,10463,Bronx
-7,X015,Joseph Rodham Drake Park Off-Leash Area,,Off-Leash,2.49000001,Small Park,10474,Bronx
-8,X034,Mullaly Park Off-Leash Area,,Off-Leash,15.04899979,Large Park,10452,Bronx
-9,X039,Pelham Bay Park Off-Leash Area,"Middletown Road & Stadium Avenue, northwest of parking lot.",Off-Leash,2771.74707,Large Park,10465,Bronx
-10,X201,Seton Park Dog Run,West 232nd Street & Independence Avenue,Run,11.68900013,Large Park,10463,Bronx
-11,X010A,Tremont Park Off-Leash Area,"Except for playgrounds and other areas where dogs are expressly prohibited via signage, all areas of the park are off-leash during designated hours.",Off-Leash,15,Large Park,10457,Bronx
-12,X092,Van Cortlandt Park: Canine Court,Broadway and 252 Street,Run,1146.430054,Large Park,10471,Bronx
-13,X104,Williamsbridge Oval Dog Run,3225 Reservoir Oval East,Run,19.74900055,Large Park,10467,Bronx
-14,B080,Asser Levy Park Off-Leash Area,"Surf Avenue, Sea Breeze Avenue, West 5th Street, Ocean Parkway",Off-Leash,21.03899956,Large Park,11224,Brooklyn
-15,B247,Breukelen Park Off-Leash Area,All areas excluding the playground and ballfields,Off-Leash,16.15999985,Large Park,11207,Brooklyn
-16,B431,Brooklyn Bridge Park Dog Run,Pier 6,Run,21.37700081,Large Park,11201,Brooklyn
-17,B113A,Brooklyn War Memorial Off-Leash Area,"Cadman Plaza Park, Cadman Plaza West & East & Prospect Street ",Off-Leash,10.38399982,Large Park,11201,Brooklyn
-18,B018,Canarsie Park Off-Leash Area,"All areas excluding the playground, ballfields, and Natural Areas.",Off-Leash,132.199997,Large Park,11236,Brooklyn
-19,B223B,DiMattina Park Dog Run,Hicks & Woodhull streets,Run,0.51999998,Small Park,11231,Brooklyn
-20,B028,Dyker Beach Park Dog Run,7th Avenue and 86th Street,Run,216.6549988,Large Park,11228,Brooklyn
-21,B028,Dyker Beach Park Off-Leash Area,"Cropsey Avenue, Bay 8th Street, and Poly Place",Off-Leash,216.6549988,Large Park,11228,Brooklyn
-22,B032,Fort Greene Park Off-Leash Area,"All areas excluding the playgrounds, tennis courts, and lawns with posted signs.",Off-Leash,30.16799927,Large Park,11205,Brooklyn
-23,B372,Friends Field Park Off-Leash Area,"East 4th Street, Avenue L, and McDonald Avenue",Off-Leash,6.69999981,Large Park,11230,Brooklyn
-24,B038,Fulton Park Off-Leash Area,,Off-Leash,1.98699999,Small Park,11233,Brooklyn
-25,B401,Grand Ferry Park Off-Leash Area,,Off-Leash,1.70000005,Small Park,11211,Brooklyn
-26,B088,Herbert Von King Park Dog Run,Marcy Avenue & Lafayette Avenue,Run,7.81899977,Large Park,11216,Brooklyn
-27,B223G,Hillside Park Dog Run,Columbia Heights & Middagh Street,Run,1.37100005,Small Park,11201,Brooklyn
-28,B111A,Washington Park Dog Run,"3rd to 4th streets, 4th to 5th avenues",Run,1.54900002,Small Park,11215,Brooklyn
-29,B035,John Paul Jones Park Off-Leash Area,4th Avenue and 101st Street ,Off-Leash,5.31699991,Small Park,11209,Brooklyn
-30,B129,Kaiser Park Off-Leash Area,"Neptune Avenue between West 24th Street & Bayview Avenue, Coney Island Creek",Off-Leash,26.25699997,Large Park,11224,Brooklyn
-31,B052,Leif Ericson Park Off-Leash Area,67th Street between 6th Avenue and 7th Avenue,Off-Leash,16.79999924,Large Park,11220,Brooklyn
-32,B054,Lincoln Terrace Park Off-Leash Area,Eastern Parkway between Buffalo and Rochester avenues,Off-Leash,17.13999939,Large Park,11213,Brooklyn
-33,B223S,Macri Square Park Off-Leash Area,Union Turnpike and Metropolitan Avenue,Off-Leash,0.56999999,Small Park,11211,Brooklyn
-34,B251,Manhattan Beach Dog Run,"East of Ocean Avenue, North Shore Rockaway inlet",Run,42.94100189,Large Park,11235,Brooklyn
-35,B057,Marine Park Off-Leash Area,"All areas excluding the playgrounds, ballfields, and Natural Areas.",Off-Leash,800,Large Park,11229,Brooklyn
-36,B057,,,,,,11234,
-37,B057,,,,,,11235,
-38,B058,McCarren Park Dog Run,"North 12th Street, Driggs Avenue and Union Avenue",Run,36.49300003,Large Park,11211,Brooklyn
-39,B114,McGolrick Park Dog Run,North Henry Street and Driggs Avenue,Run,9.13399982,Large Park,11222,Brooklyn
-40,B060,McKinley Park Off-Leash Area,"Fort Hamilton Parkway, 7th Avenue, 73rd Street to 75th Street",Off-Leash,8.25,Large Park,11228,Brooklyn
-41,B159,Mount Prospect Park Off-Leash Area,Eastern Parkway between Washington and Underhill avenues,Off-Leash,7.78999996,Large Park,11238,Brooklyn
-42,B066,Owls Head Park Dog Run,68th Street and Shore Road,Run,24.21800041,Large Park,11220,Brooklyn
-43,B223DA,Adam Yauch Park Dog Run,Columbia Place & State Street,Run,1.36300004,Small Park,11201,Brooklyn
-44,B073,Prospect Park Off-Leash Area,"Middle & Upper Long Meadow (excludes ballfield area in the Lower Long Meadow), Nethermead, Peninsula.",Off-Leash,526.25,Large Park,11215,Brooklyn
-45,B082,Frank Decolvenaere Dog Run,Shore Road & 3rd Ave,Run,58,Large Park,11209,Brooklyn
-46,B087,Sunset Park Off-Leash Area,"Sunset Park Oval lawn area only, center of park 44th Street, 41st Street, 6th Avenue",Off-Leash,24.49799919,Large Park,11232,Brooklyn
-47,M081,Carl Schurz Park Dog Run (2 runs),East End Avenue to East River from Gracie Square (East 84th Street) to 89th Street,Run,14.93799973,Large Park,10028,Manhattan
-48,M010,Central Park Off-Leash Area,"Though there are no enclosed dog runs, there are 23 particularly dog-friendly areas scattered throughout the Park.",Off-Leash,840.0100098,Large Park,10023,Manhattan
-49,M010,Central Park Off-Leash Area,,,,,10024,
-50,M010,Central Park Off-Leash Area,,,,,10025,
-51,M,Chelsea Waterside Park Dog Run,11th Ave and 22nd Street,Run,,,10010,Manhattan
-52,M019,Coleman Oval Park Dog Run,Pike and Monroe streets,Run,2.6099999,Small Park,10002,Manhattan
-53,M022,De Witt Clinton Park Dog Run (2 runs),"West 52nd Street & West 54th Street, between 10th & 11th avenues",Run,5.829,Small Park,10019,Manhattan
-54,M291,Fishbridge Park Garden Dog Run,"Dover Street, between Pearl & Water Street",Run,0.1,Small Park,10038,Manhattan
-55,M029,Fort Tryon Park Dog Run,Margaret Corbin Drive,Run,67.21299744,Large Park,10040,Manhattan
-56,M028,Ft. Washington Park Dog Run,165th Street & Riverside Drive,Run,184.1430054,Large Park,10032,Manhattan
-57,M037,Highbridge Park Dog Run,Amsterdam and Fort George avenues,Run,130.1000061,Large Park,10040,Manhattan
-58,M,Hudson River Park Dog Run (Greenwich Village),Leroy Street at the northeast corner of Pier 40,Run,,,10014,Manhattan
-59,M,Hudson River Park Dog Run (North Chelsea),Pier 84 at West 44th Street,Run,,,10011,Manhattan
-60,M042,Inwood Hill Park Dog Run: Homer's Run,Seaman Avenue & Isham Street,Run,196.397995,Large Park,10034,Manhattan
-61,M099,J. Hood Wright Park Dog Run,"Fort Washington & Haven Avenues, West 173rd Street",Run,6.69899988,Large Park,10033,Manhattan
-62,M052,Madison Square Park Dog Run,Madison Avenue to 5th Avenue between East 23rd Street & East 26th Street,Run,6.23400021,Large Park,10010,Manhattan
-63,M058,Marcus Garvey Park Dog Run,Madison Avenue and East 120th Street,Run,20.16500092,Large Park,10027,Manhattan
-64,M056,Morningside Park Dog Run,Morningside Avenue between 114th and 119th streets,Run,29.88800049,Large Park,10026,Manhattan
-65,M108N,Peter Detmold Park Dog Run,"West of FDR Drive, between East 49th & East 51st streets",Run,0.588,Small Park,10022,Manhattan
-66,M104,Randalls Island Park Off-Leash Area,"Except for areas where dogs are expressly prohibited via signage, all areas of the park are off-leash during designated hours.",Off-Leash,254.3000031,Large Park,10035,Manhattan
-67,M071,Riverside Park Dog Run (3 runs),"Riverside Drive at West 72nd, West 87th, West 105th",Run,253.1679993,Large Park,10023,Manhattan
-68,M071,Riverside Park Dog Run (3 runs),,,,,10024,
-69,M071,Riverside Park Dog Run (3 runs),,,,,10025,
-70,M158,Robert Moses Park Dog Run,41st & 42nd streets at 1st Avenue,Run,1.09300005,Small Park,10017,Manhattan
-71,M077,St. Nicholas Park Dog Run,"St Nicholas Avenue to St. Nicholas Terrace, West 128th to West 141 streets",Run,22.73999977,Large Park,10027,Manhattan
-72,M077,St. Nicholas Park Dog Run,,Run,23.73999977,Large Park,10031,
-73,M053,Theodore Roosevelt Park Dog Run,Central Park West at West 81st Street,Run,17.58099937,Large Park,10024,Manhattan
-74,M047,Thomas Jefferson Park Dog Run,East 112th Street and FDR Drive,Run,15.52400017,Large Park,10029,Manhattan
-75,M088,Tompkins Square Park Dog Run,"1st Avenue to Avenue B, from East 7th to East 10th streets",Run,10.50199986,Large Park,10009,Manhattan
-76,M089,Union Square Dog Run,15th Street & Union Square West,Run,6.51000023,Small Park,10003,Manhattan
-77,M098,Washington Square Park Dog Run,"5th Avenue, Waverly Place, West 4th Street, between McDougal & Thompson streets, south side of the park (behind building)",Run,9.7489996,Large Park,10011,Manhattan
-78,Q001,Alley Pond Park Off-Leash Area,Grand Central Parkway/Winchester Boulevard/Kingsbury Avenue,Off-Leash,635.5139771,Large Park,11364,Queens
-79,Q004,Astoria Park Off-Leash Area,,Off-Leash,59.95600128,Large Park,11105,Queens
+98,Q219,Rockaway Freeway Dog Park,Rockaway Freeway and Beach 84th Street,Run,9.40400028,Large Park,11693,Queens
+82,Q007,Bayswater Park Off-Leash Area,,Off-Leash,40.15999985,Large Park,11691,Queens
+97,Q371,Rockaway Community Park Off-Leash Area,Almeda Avenue between Beach 51st Street and Beach 54th Street,Off-Leash,255.3999939,Large Park,11691,Queens
 80,Q005,Baisley Pond Park Off-Leash Area,Between119th and 123rd avenues,Off-Leash,109.6090012,Large Park,11434,Queens
 81,Q005,Baisley Pond Park Off-Leash Area,Lakeview Lane between Foch Boulevard and Lakeview Lane East,Off-Leash,109.6090012,Large Park,11434,Queens
-82,Q007,Bayswater Park Off-Leash Area,,Off-Leash,40.15999985,Large Park,11691,Queens
-83,Q012,Crocheron Park Off-Leash Area,,Off-Leash,45.79000092,Large Park,11361,Queens
 84,Q021,Cunningham Park Dog Run,193rd Street between Aberdeen Road & Radnor Road,Run,358,Large Park,11423,Queens
-85,Q099,Flushing Meadows Corona Park Off-Leash Area,,Off-Leash,897.6900024,Large Park,11368,Queens
 86,Q015,Forest Park: Overlook Dog Park/The Barking Lot,"Corner of Park Lane and Forest Park Drive, behind the Overlook building at 80-30 Park Lane",Run,506.8599854,Large Park,11421,Queens
+137,Q015,Forest Park Off-Leash Area,,Off-Leash,509.8599854,Large Park,11421,Queens
 87,Q015,Forest Park: K9 Korral,Park Lane South and 85th Street,Run,506.8599854,Large Park,11415,Queens
+136,Q015,Forest Park Off-Leash Area,,Off-Leash,508.8599854,Large Park,11415,Queens
+100,Q107,Springfield Park Off-Leash Area,,Off-Leash,23.54299927,Large Park,11413,Queens
+135,Q015,Forest Park Off-Leash Area,,Off-Leash,507.8599854,Large Park,11385,Queens
 88,Q102,Juniper Valley Park Off-Leash Area,,Off-Leash,55.63899994,Large Park,11379,Queens
+99,Q341C,Sherry Park Dog Run,"Queens Boulevard, 65 Place, and the Brooklyn-Queens Expressway",Run,0.354,Small Park,11377,Queens
+103,Q031A,Windmuller Park Dog Run (Doughboy Plaza),"Woodside Avenue, 54-56 streets",Run,1.71000004,Small Park,11377,Queens
+101,Q451,Underbridge Playground Dog Run,64th Avenue/64th Road on Grand Central Parkway service road,Run,0.45699999,Small Park,11375,Queens
+104,Q425,Yellowstone Park Off-Leash Area,Sitting area located at 68 Road and Yellowstone Boulevard.  ,Off-Leash,1.745,Small Park,11375,Queens
+134,Q015,Forest Park Off-Leash Area,,Off-Leash,506.8599854,Large Park,11375,Queens
+102,Q013,Veteran's Grove Dog Run,Judge Street & Whitney Avenue (south side of Park),Run,0.62599999,Small Park,11373,Queens
 89,Q393D,La Guardia Landing Lights Off-Leash Area,,Off-Leash,1.60699999,Small Park,11370,Queens
 90,Q393D,Landing Lights Off-Leash Area,"Grand Central Parkway, 81 Street & 82 Street & Astoria Boulevard, 23 Avenue 84, 24 thru 30 Avenues, 77 Street through 81 Street",Off-Leash,1.60699999,Small Park,11370,Queens
+159,Q393A,LaGuardia Landing Lights Dog Run,78th Street between 25th and 30th Avenue,,1.47300005,Small Park,11370,Queens
+85,Q099,Flushing Meadows Corona Park Off-Leash Area,,Off-Leash,897.6900024,Large Park,11368,Queens
+78,Q001,Alley Pond Park Off-Leash Area,Grand Central Parkway/Winchester Boulevard/Kingsbury Avenue,Off-Leash,635.5139771,Large Park,11364,Queens
+83,Q012,Crocheron Park Off-Leash Area,,Off-Leash,45.79000092,Large Park,11361,Queens
 91,Q010A,Little Bay Park Dog Run,North side of the Cross Island Parkway & Utopia Parkway,Run,55.22000122,Large Park,11357,Queens
 92,Q009,MacNeil Park Off-Leash Area: 6:00 a.m. - 9:00 a.m. Only,Mainly zone #1,Off-Leash,28.87000084,Large Park,11356,Queens
+41,B159,Mount Prospect Park Off-Leash Area,Eastern Parkway between Washington and Underhill avenues,Off-Leash,7.78999996,Large Park,11238,Brooklyn
+133,B016,Maria Hernandez Park Dog Run,Irving Ave. & Suydam St.,Run,6.87300014,Large Park,11237,Brooklyn
+18,B018,Canarsie Park Off-Leash Area,"All areas excluding the playground, ballfields, and Natural Areas.",Off-Leash,132.199997,Large Park,11236,Brooklyn
+34,B251,Manhattan Beach Dog Run,"East of Ocean Avenue, North Shore Rockaway inlet",Run,42.94100189,Large Park,11235,Brooklyn
+37,B057,,,,,,11235,
+36,B057,,,,,,11234,
+24,B038,Fulton Park Off-Leash Area,,Off-Leash,1.98699999,Small Park,11233,Brooklyn
+46,B087,Sunset Park Off-Leash Area,"Sunset Park Oval lawn area only, center of park 44th Street, 41st Street, 6th Avenue",Off-Leash,24.49799919,Large Park,11232,Brooklyn
+19,B223B,DiMattina Park Dog Run,Hicks & Woodhull streets,Run,0.51999998,Small Park,11231,Brooklyn
+119,B077,Coffey Park Off-Leash Area,"King Street, Richards Street, and Verona Street at Dwight and Pioneer Streets",Off-Leash,8.27099991,Large Park,11231,Brooklyn
+23,B372,Friends Field Park Off-Leash Area,"East 4th Street, Avenue L, and McDonald Avenue",Off-Leash,6.69999981,Large Park,11230,Brooklyn
+35,B057,Marine Park Off-Leash Area,"All areas excluding the playgrounds, ballfields, and Natural Areas.",Off-Leash,800,Large Park,11229,Brooklyn
+20,B028,Dyker Beach Park Dog Run,7th Avenue and 86th Street,Run,216.6549988,Large Park,11228,Brooklyn
+21,B028,Dyker Beach Park Off-Leash Area,"Cropsey Avenue, Bay 8th Street, and Poly Place",Off-Leash,216.6549988,Large Park,11228,Brooklyn
+40,B060,McKinley Park Off-Leash Area,"Fort Hamilton Parkway, 7th Avenue, 73rd Street to 75th Street",Off-Leash,8.25,Large Park,11228,Brooklyn
+158,B068,Kensington Dog Run,Coney Island Ave at Kermit Pl,Run,39.5,Large Park,11226,Brooklyn
+14,B080,Asser Levy Park Off-Leash Area,"Surf Avenue, Sea Breeze Avenue, West 5th Street, Ocean Parkway",Off-Leash,21.03899956,Large Park,11224,Brooklyn
+30,B129,Kaiser Park Off-Leash Area,"Neptune Avenue between West 24th Street & Bayview Avenue, Coney Island Creek",Off-Leash,26.25699997,Large Park,11224,Brooklyn
+39,B114,McGolrick Park Dog Run,North Henry Street and Driggs Avenue,Run,9.13399982,Large Park,11222,Brooklyn
+31,B052,Leif Ericson Park Off-Leash Area,67th Street between 6th Avenue and 7th Avenue,Off-Leash,16.79999924,Large Park,11220,Brooklyn
+42,B066,Owls Head Park Dog Run,68th Street and Shore Road,Run,24.21800041,Large Park,11220,Brooklyn
+144,B130,Greenwood Playground Dog Run,E. 5th St & Fort Hamilton Parkway,Run,3.3900001,Small Park,11218,Brooklyn
+26,B088,Herbert Von King Park Dog Run,Marcy Avenue & Lafayette Avenue,Run,7.81899977,Large Park,11216,Brooklyn
+28,B111A,Washington Park Dog Run,"3rd to 4th streets, 4th to 5th avenues",Run,1.54900002,Small Park,11215,Brooklyn
+44,B073,Prospect Park Off-Leash Area,"Middle & Upper Long Meadow (excludes ballfield area in the Lower Long Meadow), Nethermead, Peninsula.",Off-Leash,526.25,Large Park,11215,Brooklyn
+32,B054,Lincoln Terrace Park Off-Leash Area,Eastern Parkway between Buffalo and Rochester avenues,Off-Leash,17.13999939,Large Park,11213,Brooklyn
+126,B012,Brower Park Off-Leash Area,"St. Mark's Ave., Park Pl. bet. Brooklyn Ave. and Kingston Ave.",Off-Leash,7.04699993,Large Park,11213,Brooklyn
+25,B401,Grand Ferry Park Off-Leash Area,,Off-Leash,1.70000005,Small Park,11211,Brooklyn
+33,B223S,Macri Square Park Off-Leash Area,Union Turnpike and Metropolitan Avenue,Off-Leash,0.56999999,Small Park,11211,Brooklyn
+38,B058,McCarren Park Dog Run,"North 12th Street, Driggs Avenue and Union Avenue",Run,36.49300003,Large Park,11211,Brooklyn
+127,B025,Cooper Park Dog Run,At the intersection of Morgan Avenue and Sharon Street,Run,6.40100002,Large Park,11211,Brooklyn
+29,B035,John Paul Jones Park Off-Leash Area,4th Avenue and 101st Street ,Off-Leash,5.31699991,Small Park,11209,Brooklyn
+45,B082,Frank Decolvenaere Dog Run,Shore Road & 3rd Ave,Run,58,Large Park,11209,Brooklyn
+15,B247,Breukelen Park Off-Leash Area,All areas excluding the playground and ballfields,Off-Leash,16.15999985,Large Park,11207,Brooklyn
+143,B055,Sternberg Park Dog Run,Leonard St between Montrose Ave & Boerum St,Run,4.04400015,Small Park,11206,Brooklyn
+22,B032,Fort Greene Park Off-Leash Area,"All areas excluding the playgrounds, tennis courts, and lawns with posted signs.",Off-Leash,30.16799927,Large Park,11205,Brooklyn
+16,B431,Brooklyn Bridge Park Dog Run,Pier 6,Run,21.37700081,Large Park,11201,Brooklyn
+17,B113A,Brooklyn War Memorial Off-Leash Area,"Cadman Plaza Park, Cadman Plaza West & East & Prospect Street ",Off-Leash,10.38399982,Large Park,11201,Brooklyn
+27,B223G,Hillside Park Dog Run,Columbia Heights & Middagh Street,Run,1.37100005,Small Park,11201,Brooklyn
+43,B223DA,Adam Yauch Park Dog Run,Columbia Place & State Street,Run,1.36300004,Small Park,11201,Brooklyn
+95,Q048,Rainey Park Off-Leash Area,,Off-Leash,8.09000015,Large Park,11106,Queens
+79,Q004,Astoria Park Off-Leash Area,,Off-Leash,59.95600128,Large Park,11105,Queens
+96,Q004A,Ralph DeMarco Park Off-Leash Area,,Off-Leash,5.82000017,Small Park,11105,Queens
+125,Q340,Torsney/Lou Lodati Playground Dog Run,43rd Street & Skillman Avenue,Run,2.02699995,Small Park,11104,Queens
+139,Q066C,Triborough Bridge Playground C Dog Run,Hoyt Ave & 24th St,Run,0.46000001,Small Park,11102,Queens
 93,Q141,Murray Playground Dog Run,21st Street & 45th Road (southeastern side of the park),Run,2.52399993,Small Park,11101,Queens
 94,Q104,Queensbridge Park Off-Leash Area,,Off-Leash,20.34000015,Large Park,11101,Queens
-95,Q048,Rainey Park Off-Leash Area,,Off-Leash,8.09000015,Large Park,11106,Queens
-96,Q004A,Ralph DeMarco Park Off-Leash Area,,Off-Leash,5.82000017,Small Park,11105,Queens
-97,Q371,Rockaway Community Park Off-Leash Area,Almeda Avenue between Beach 51st Street and Beach 54th Street,Off-Leash,255.3999939,Large Park,11691,Queens
-98,Q219,Rockaway Freeway Dog Park,Rockaway Freeway and Beach 84th Street,Run,9.40400028,Large Park,11693,Queens
-99,Q341C,Sherry Park Dog Run,"Queens Boulevard, 65 Place, and the Brooklyn-Queens Expressway",Run,0.354,Small Park,11377,Queens
-100,Q107,Springfield Park Off-Leash Area,,Off-Leash,23.54299927,Large Park,11413,Queens
-101,Q451,Underbridge Playground Dog Run,64th Avenue/64th Road on Grand Central Parkway service road,Run,0.45699999,Small Park,11375,Queens
-102,Q013,Veteran's Grove Dog Run,Judge Street & Whitney Avenue (south side of Park),Run,0.62599999,Small Park,11373,Queens
-103,Q031A,Windmuller Park Dog Run (Doughboy Plaza),"Woodside Avenue, 54-56 streets",Run,1.71000004,Small Park,11377,Queens
-104,Q425,Yellowstone Park Off-Leash Area,Sitting area located at 68 Road and Yellowstone Boulevard.  ,Off-Leash,1.745,Small Park,11375,Queens
-105,R052,Allison Park Off-Leash Area,"Field at the end of the trail bordered by Prospect Avenue, Sailors Snug Harbor Cemetery, and the pond.",Off-Leash,9.19999981,Large Park,10301,Staten Island
-106,R059,Arthur Von Briesen Park Off-Leash Area,"Lawn area, mid-park right side 
-",Off-Leash,13.93799973,Large Park,10305,Staten Island
-107,R005,Clove Lakes Park Off-Leash Area,Open field above picnic area near Royal Oak Rd. & Rice Ave.,Off-Leash,193.4230042,Large Park,10301,Staten Island
-108,R070,Clove&rsquo;s Tail Park Off-Leash Area,"Lawn area, corner of Victory Boulevard & Little Clove Road
-",Off-Leash,2.05599999,Small Park,10314,Staten Island
-109,R027,Cozzens Woods Park Off-Leash Area,Page Avenue between Hylan Boulevard & Amboy Road,Off-Leash,91.08599854,Large Park,10309,Staten Island
-110,R121,Siedenburg Park Off-Leash Area,Greaves Avenue & Evergreen Street,Off-Leash,22.88199997,Large Park,10308,Staten Island
-111,R075A,Father Macris Park Off-Leash Area,Lawn area beyond ballfield,Off-Leash,13.46899986,Large Park,10314,Staten Island
-112,R079,Lemon Creek Park Off-Leash Area,Bottom of Seguine Avenue at Johnston Terrace; just below playground,Off-Leash,104.5449982,Large Park,10309,Staten Island
-113,R022,Silver Lake Park Dog Run,"Victory Boulevard below the pavilion, across from the Parkview Apartments",Run,205.977005,Large Park,10301,Staten Island
-114,R046,South Beach Park Off-Leash Area,,Off-Leash,644.3499756,Large Park,10305,Staten Island
-115,R046,South Beach Park Off-Leash Area,,,,,10306,
-116,R030,Willowbrook Park Off-Leash Area,Archery Range Field,Off-Leash,214.9470062,Large Park,10314,Staten Island
-117,R031,Wolfe's Pond Park Dog Run,Run is to left of Cornelia Avenue,Run,302.6929932,Large Park,10312,Staten Island
-118,R005,Clove Lakes Park Off-Leash Area,Brookside Avenue between Alpine Court & Kingsley Avenue (lawn area),Off-Leash,193.4230042,Large Park,10301,Staten Island
-119,B077,Coffey Park Off-Leash Area,"King Street, Richards Street, and Verona Street at Dwight and Pioneer Streets",Off-Leash,8.27099991,Large Park,11231,Brooklyn
-120,M017,Corlears Hook Park Dog Run,Cherry Street and Jackson Street (on the north side of the park building),Run,4.35500002,Small Park,10002,Manhattan
-121,M108Q1,Andrew Haswell Green Park Dog Run,East River at 63rd Street,Run,1.98399997,Small Park,10065,Manhattan
-122,R065,Amundsen Trail Off-Leash Area,Between Amboy Road and Hylan Boulevard,Off-Leash,350.9830017,Large Park,10306,Staten Island
-123,R106,Bloomingdale Park Dog Run,Maguire Avenue behind athletic fields closer to Romona Avenue ,Run,138.1000061,Large Park,10309,Staten Island
 124,Q471,Hunter's Point South Park Dog Run,,Run,22.80900002,Small Park,11101,Queens
-125,Q340,Torsney/Lou Lodati Playground Dog Run,43rd Street & Skillman Avenue,Run,2.02699995,Small Park,11104,Queens
-126,B012,Brower Park Off-Leash Area,"St. Mark's Ave., Park Pl. bet. Brooklyn Ave. and Kingston Ave.",Off-Leash,7.04699993,Large Park,11213,Brooklyn
-127,B025,Cooper Park Dog Run,At the intersection of Morgan Avenue and Sharon Street,Run,6.40100002,Large Park,11211,Brooklyn
-128,M042,Dyckman Fields Off-Leash Area,"Dyckman Street, near the Hudson River",Off-Leash,196.397995,Large Park,10034,Manhattan
-129,X045,St. Mary's Dog Run,Near corner of Cypress Ave and East 143rd St,Run,35.31100082,Large Park,10455,Bronx
-130,R006,Conference House Park Dog Run,Clermont Avenue and Massachusetts Street,Run,286.5570068,Large Park,10307,Staten Island
-131,X118,Soundview Dog Run,Lafayette Avenue Between Colgate and Boynton Avenues,,269.4150085,Large Park,10473,Bronx
-132,X092,Van Cortlandt Park: Oneida Run,Van Cortlandt Park East between Oneida Avenue and East 238th Street,Run,1146.430054,Large Park,10471,Bronx
-133,B016,Maria Hernandez Park Dog Run,Irving Ave. & Suydam St.,Run,6.87300014,Large Park,11237,Brooklyn
-134,Q015,Forest Park Off-Leash Area,,Off-Leash,506.8599854,Large Park,11375,Queens
-135,Q015,Forest Park Off-Leash Area,,Off-Leash,507.8599854,Large Park,11385,Queens
-136,Q015,Forest Park Off-Leash Area,,Off-Leash,508.8599854,Large Park,11415,Queens
-137,Q015,Forest Park Off-Leash Area,,Off-Leash,509.8599854,Large Park,11421,Queens
-138,X002,Bronx Park Dog Run,Boston Road & Bronx Park East,Run,718.3729858,Large Park,10462,Bronx
-139,Q066C,Triborough Bridge Playground C Dog Run,Hoyt Ave & 24th St,Run,0.46000001,Small Park,11102,Queens
-140,X039,Pelham Bay Park Dog Run,Middletown Road Parking Lot (off Stadium Ave.),Run,2771.74707,Large Park,10465,Bronx
-141,X020,Fort Independence Playground Dog Run,Sedgwick Ave & W. 238th St,Run,3.01999998,Small Park,10463,Bronx
-142,X247,Fox Playground Dog Run,Fox St & E. 15th St,Run,0.94,Small Park,10455,Bronx
-143,B055,Sternberg Park Dog Run,Leonard St between Montrose Ave & Boerum St,Run,4.04400015,Small Park,11206,Brooklyn
-144,B130,Greenwood Playground Dog Run,E. 5th St & Fort Hamilton Parkway,Run,3.3900001,Small Park,11218,Brooklyn
-145,M086,Stuyvesant Square Dog Park,E. 15th St between 2nd Ave & Perlman Pl,Run,3.92799997,Small Park,10003,Manhattan
-146,M366,Tribeca Dog Run,Warren St between West St  & Greenwich St,Run,0.096,Small Park,10007,Manhattan
-147,M353,Riverside Park South Dog Run,Hudson River Greenway at W. 72nd St,Run,71.93299866,Large Park,10023,Manhattan
-148,M072,Riverside Park: 142nd Street Dog Run,W. 142nd St & Riverside Dr,Run,13.35000038,Large Park,10031,Manhattan
-149,M263,Bellevue South Park Dog Run,Mt. Carmel Pl & E. 26th St,Run,1.59300005,Small Park,10016,Manhattan
-150,R097,Ida Court Playground Dog Run,Ida Court between N. Railroad St & Drumgoole Road E,Run,1.60000002,Small Park,10312,Staten Island
+7,X015,Joseph Rodham Drake Park Off-Leash Area,,Off-Leash,2.49000001,Small Park,10474,Bronx
 151,X307,Barretto Point Park Off-Leash Area,Tiffany Street and Viele Avenue,Off-Leash,12.22399998,Small Park,10474,Bronx
+131,X118,Soundview Dog Run,Lafayette Avenue Between Colgate and Boynton Avenues,,269.4150085,Large Park,10473,Bronx
 152,X305,Concrete Plant Park   Off-Leash Area,Along Bronx River between Bruckner Blvd & Westchester Avenue,Off-Leash,6.28200006,Large Park,10472,Bronx
-153,X126,Ferry Point Park Off-Leash Area,Schley Avenue between Brush and Balcom Avenues,Off-Leash,413.7999878,Large Park,10465,Bronx
+4,X110A,Frank S. Hackett Park Dog Run,Riverdale Avenue at Henry Hudson Parkway,Run,1,Small Park,10471,Bronx
+12,X092,Van Cortlandt Park: Canine Court,Broadway and 252 Street,Run,1146.430054,Large Park,10471,Bronx
+132,X092,Van Cortlandt Park: Oneida Run,Van Cortlandt Park East between Oneida Avenue and East 238th Street,Run,1146.430054,Large Park,10471,Bronx
 154,X196,Haffen Park  Off-Leash Area,Gunther and Hammersley Avenues,Off-Leash,9.23799992,Large Park,10469,Bronx
-155,X046,Seton Falls Park Off-Leash Area,Baychester Avenue and East 233 Street,Off-Leash,35.77099991,Large Park,10466,Bronx
-156,X147A,Starlight Park   Off-Leash Area,Sheridan Blvd and East 172 Street,Off-Leash,17.06399918,Large Park,10459,Bronx
-157,X092,Van Cortlandt Park:  Sackerah Woods Dog Run,Gun Hill Road and Gates Place,Run,1146.430054,Large Park,10467,Bronx
-158,B068,Kensington Dog Run,Coney Island Ave at Kermit Pl,Run,39.5,Large Park,11226,Brooklyn
-159,Q393A,LaGuardia Landing Lights Dog Run,78th Street between 25th and 30th Avenue,,1.47300005,Small Park,11370,Queens
 160,X013,Devoe Park Dog Run,Sedgwick Avenue between Webb Ave and West Fordham Road,Run,5.44000006,Small Park,10468,Bronx
 161,X044,St. James Park,"Jerome Ave., E. 193 St., Creston Ave., E",Run,11.39000034,Large Park,10468,Bronx
+13,X104,Williamsbridge Oval Dog Run,3225 Reservoir Oval East,Run,19.74900055,Large Park,10467,Bronx
+157,X092,Van Cortlandt Park:  Sackerah Woods Dog Run,Gun Hill Road and Gates Place,Run,1146.430054,Large Park,10467,Bronx
+155,X046,Seton Falls Park Off-Leash Area,Baychester Avenue and East 233 Street,Off-Leash,35.77099991,Large Park,10466,Bronx
+9,X039,Pelham Bay Park Off-Leash Area,"Middletown Road & Stadium Avenue, northwest of parking lot.",Off-Leash,2771.74707,Large Park,10465,Bronx
+140,X039,Pelham Bay Park Dog Run,Middletown Road Parking Lot (off Stadium Ave.),Run,2771.74707,Large Park,10465,Bronx
+153,X126,Ferry Point Park Off-Leash Area,Schley Avenue between Brush and Balcom Avenues,Off-Leash,413.7999878,Large Park,10465,Bronx
+3,X019,Ewen Park Dog Run,"Riverdale to Johnson avenues, south of West 232nd Street",Run,7.84000015,Large Park,10463,Bronx
+6,X080,Henry Hudson Park Off-Leash Area,Kappock Street and Independence Avenue,Off-Leash,8.97200012,Large Park,10463,Bronx
+10,X201,Seton Park Dog Run,West 232nd Street & Independence Avenue,Run,11.68900013,Large Park,10463,Bronx
+141,X020,Fort Independence Playground Dog Run,Sedgwick Ave & W. 238th St,Run,3.01999998,Small Park,10463,Bronx
+0,X002,Bronx Park Off-Leash Area,Unionport & Sagamore on Bronx Park East to 233rd Street,Off-Leash,718.3729858,Large Park,10462,Bronx
+138,X002,Bronx Park Dog Run,Boston Road & Bronx Park East,Run,718.3729858,Large Park,10462,Bronx
+156,X147A,Starlight Park   Off-Leash Area,Sheridan Blvd and East 172 Street,Off-Leash,17.06399918,Large Park,10459,Bronx
+1,X008,Claremont Park Off-Leash Area,,Off-Leash,38.5359993,Large Park,10457,Bronx
+2,X010,Crotona Park Off-Leash Area,"Except for playgrounds and other areas where dogs are expressly prohibited via signage, all areas of the park are off-leash during designated hours.",Off-Leash,127.5,Large Park,10457,Bronx
+11,X010A,Tremont Park Off-Leash Area,"Except for playgrounds and other areas where dogs are expressly prohibited via signage, all areas of the park are off-leash during designated hours.",Off-Leash,15,Large Park,10457,Bronx
+129,X045,St. Mary's Dog Run,Near corner of Cypress Ave and East 143rd St,Run,35.31100082,Large Park,10455,Bronx
+142,X247,Fox Playground Dog Run,Fox St & E. 15th St,Run,0.94,Small Park,10455,Bronx
+8,X034,Mullaly Park Off-Leash Area,,Off-Leash,15.04899979,Large Park,10452,Bronx
+5,X047,Franz Sigel Park Dog Run,"Center of the park, just north of the ballfields which would line up with around 155th Street.",Run,15.98999977,Large Park,10451,Bronx
+108,R070,Clove&rsquo;s Tail Park Off-Leash Area,"Lawn area, corner of Victory Boulevard & Little Clove Road
+",Off-Leash,2.05599999,Small Park,10314,Staten Island
+111,R075A,Father Macris Park Off-Leash Area,Lawn area beyond ballfield,Off-Leash,13.46899986,Large Park,10314,Staten Island
+116,R030,Willowbrook Park Off-Leash Area,Archery Range Field,Off-Leash,214.9470062,Large Park,10314,Staten Island
+117,R031,Wolfe's Pond Park Dog Run,Run is to left of Cornelia Avenue,Run,302.6929932,Large Park,10312,Staten Island
+150,R097,Ida Court Playground Dog Run,Ida Court between N. Railroad St & Drumgoole Road E,Run,1.60000002,Small Park,10312,Staten Island
+109,R027,Cozzens Woods Park Off-Leash Area,Page Avenue between Hylan Boulevard & Amboy Road,Off-Leash,91.08599854,Large Park,10309,Staten Island
+112,R079,Lemon Creek Park Off-Leash Area,Bottom of Seguine Avenue at Johnston Terrace; just below playground,Off-Leash,104.5449982,Large Park,10309,Staten Island
+123,R106,Bloomingdale Park Dog Run,Maguire Avenue behind athletic fields closer to Romona Avenue ,Run,138.1000061,Large Park,10309,Staten Island
+110,R121,Siedenburg Park Off-Leash Area,Greaves Avenue & Evergreen Street,Off-Leash,22.88199997,Large Park,10308,Staten Island
+130,R006,Conference House Park Dog Run,Clermont Avenue and Massachusetts Street,Run,286.5570068,Large Park,10307,Staten Island
+115,R046,South Beach Park Off-Leash Area,,,,,10306,
+122,R065,Amundsen Trail Off-Leash Area,Between Amboy Road and Hylan Boulevard,Off-Leash,350.9830017,Large Park,10306,Staten Island
+106,R059,Arthur Von Briesen Park Off-Leash Area,"Lawn area, mid-park right side 
+",Off-Leash,13.93799973,Large Park,10305,Staten Island
+114,R046,South Beach Park Off-Leash Area,,Off-Leash,644.3499756,Large Park,10305,Staten Island
+105,R052,Allison Park Off-Leash Area,"Field at the end of the trail bordered by Prospect Avenue, Sailors Snug Harbor Cemetery, and the pond.",Off-Leash,9.19999981,Large Park,10301,Staten Island
+107,R005,Clove Lakes Park Off-Leash Area,Open field above picnic area near Royal Oak Rd. & Rice Ave.,Off-Leash,193.4230042,Large Park,10301,Staten Island
+113,R022,Silver Lake Park Dog Run,"Victory Boulevard below the pavilion, across from the Parkview Apartments",Run,205.977005,Large Park,10301,Staten Island
+118,R005,Clove Lakes Park Off-Leash Area,Brookside Avenue between Alpine Court & Kingsley Avenue (lawn area),Off-Leash,193.4230042,Large Park,10301,Staten Island
+121,M108Q1,Andrew Haswell Green Park Dog Run,East River at 63rd Street,Run,1.98399997,Small Park,10065,Manhattan
+55,M029,Fort Tryon Park Dog Run,Margaret Corbin Drive,Run,67.21299744,Large Park,10040,Manhattan
+57,M037,Highbridge Park Dog Run,Amsterdam and Fort George avenues,Run,130.1000061,Large Park,10040,Manhattan
+54,M291,Fishbridge Park Garden Dog Run,"Dover Street, between Pearl & Water Street",Run,0.1,Small Park,10038,Manhattan
+66,M104,Randalls Island Park Off-Leash Area,"Except for areas where dogs are expressly prohibited via signage, all areas of the park are off-leash during designated hours.",Off-Leash,254.3000031,Large Park,10035,Manhattan
+60,M042,Inwood Hill Park Dog Run: Homer's Run,Seaman Avenue & Isham Street,Run,196.397995,Large Park,10034,Manhattan
+128,M042,Dyckman Fields Off-Leash Area,"Dyckman Street, near the Hudson River",Off-Leash,196.397995,Large Park,10034,Manhattan
+61,M099,J. Hood Wright Park Dog Run,"Fort Washington & Haven Avenues, West 173rd Street",Run,6.69899988,Large Park,10033,Manhattan
+56,M028,Ft. Washington Park Dog Run,165th Street & Riverside Drive,Run,184.1430054,Large Park,10032,Manhattan
+72,M077,St. Nicholas Park Dog Run,,Run,23.73999977,Large Park,10031,
+148,M072,Riverside Park: 142nd Street Dog Run,W. 142nd St & Riverside Dr,Run,13.35000038,Large Park,10031,Manhattan
+74,M047,Thomas Jefferson Park Dog Run,East 112th Street and FDR Drive,Run,15.52400017,Large Park,10029,Manhattan
+47,M081,Carl Schurz Park Dog Run (2 runs),East End Avenue to East River from Gracie Square (East 84th Street) to 89th Street,Run,14.93799973,Large Park,10028,Manhattan
+63,M058,Marcus Garvey Park Dog Run,Madison Avenue and East 120th Street,Run,20.16500092,Large Park,10027,Manhattan
+71,M077,St. Nicholas Park Dog Run,"St Nicholas Avenue to St. Nicholas Terrace, West 128th to West 141 streets",Run,22.73999977,Large Park,10027,Manhattan
+64,M056,Morningside Park Dog Run,Morningside Avenue between 114th and 119th streets,Run,29.88800049,Large Park,10026,Manhattan
+50,M010,Central Park Off-Leash Area,,,,,10025,
+69,M071,Riverside Park Dog Run (3 runs),,,,,10025,
+49,M010,Central Park Off-Leash Area,,,,,10024,
+68,M071,Riverside Park Dog Run (3 runs),,,,,10024,
+73,M053,Theodore Roosevelt Park Dog Run,Central Park West at West 81st Street,Run,17.58099937,Large Park,10024,Manhattan
+48,M010,Central Park Off-Leash Area,"Though there are no enclosed dog runs, there are 23 particularly dog-friendly areas scattered throughout the Park.",Off-Leash,840.0100098,Large Park,10023,Manhattan
+67,M071,Riverside Park Dog Run (3 runs),"Riverside Drive at West 72nd, West 87th, West 105th",Run,253.1679993,Large Park,10023,Manhattan
+147,M353,Riverside Park South Dog Run,Hudson River Greenway at W. 72nd St,Run,71.93299866,Large Park,10023,Manhattan
+65,M108N,Peter Detmold Park Dog Run,"West of FDR Drive, between East 49th & East 51st streets",Run,0.588,Small Park,10022,Manhattan
+53,M022,De Witt Clinton Park Dog Run (2 runs),"West 52nd Street & West 54th Street, between 10th & 11th avenues",Run,5.829,Small Park,10019,Manhattan
+70,M158,Robert Moses Park Dog Run,41st & 42nd streets at 1st Avenue,Run,1.09300005,Small Park,10017,Manhattan
+149,M263,Bellevue South Park Dog Run,Mt. Carmel Pl & E. 26th St,Run,1.59300005,Small Park,10016,Manhattan
+58,M,Hudson River Park Dog Run (Greenwich Village),Leroy Street at the northeast corner of Pier 40,Run,,,10014,Manhattan
+59,M,Hudson River Park Dog Run (North Chelsea),Pier 84 at West 44th Street,Run,,,10011,Manhattan
+77,M098,Washington Square Park Dog Run,"5th Avenue, Waverly Place, West 4th Street, between McDougal & Thompson streets, south side of the park (behind building)",Run,9.7489996,Large Park,10011,Manhattan
+51,M,Chelsea Waterside Park Dog Run,11th Ave and 22nd Street,Run,,,10010,Manhattan
+62,M052,Madison Square Park Dog Run,Madison Avenue to 5th Avenue between East 23rd Street & East 26th Street,Run,6.23400021,Large Park,10010,Manhattan
+75,M088,Tompkins Square Park Dog Run,"1st Avenue to Avenue B, from East 7th to East 10th streets",Run,10.50199986,Large Park,10009,Manhattan
+146,M366,Tribeca Dog Run,Warren St between West St  & Greenwich St,Run,0.096,Small Park,10007,Manhattan
+76,M089,Union Square Dog Run,15th Street & Union Square West,Run,6.51000023,Small Park,10003,Manhattan
+145,M086,Stuyvesant Square Dog Park,E. 15th St between 2nd Ave & Perlman Pl,Run,3.92799997,Small Park,10003,Manhattan
+52,M019,Coleman Oval Park Dog Run,Pike and Monroe streets,Run,2.6099999,Small Park,10002,Manhattan
+120,M017,Corlears Hook Park Dog Run,Cherry Street and Jackson Street (on the north side of the park building),Run,4.35500002,Small Park,10002,Manhattan
