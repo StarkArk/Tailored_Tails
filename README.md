@@ -11,7 +11,7 @@ A New York Dog Story: [Tableau Story](https://public.tableau.com/app/profile/win
 
 ## Meet the Minds Behind tailored_tails
 
-![The_Team](https://github.com/StarkArk/Tailored_Tails/blob/main/Visualizations/images/Profiles_Project_Members/Rebecca.png)
+![The_Team](https://github.com/StarkArk/Tailored_Tails/blob/main/Visualizations/images/Profiles_Project_Members/our_team.PNG)
 
 ![Rebecca](https://github.com/StarkArk/Tailored_Tails/blob/main/Visualizations/images/Profiles_Project_Members/Rebecca.png) Rebecca Bennett
 
