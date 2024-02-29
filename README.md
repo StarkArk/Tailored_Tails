@@ -32,7 +32,7 @@ To identify the most suitable dog breed, we gathered the following information a
   
 After pulling the dog breed, NYC, and related data from [various sources](https://github.com/StarkArk/Tailored_Tails/tree/main/Exploration/doggy_data) we created cleaned csv files. These [files](https://github.com/StarkArk/Tailored_Tails/tree/main/Exploration/cleaned_data)
 were then merged together and further cleaned. The product csv [file](https://github.com/StarkArk/Tailored_Tails/blob/main/Modeling/preprocessed_doggy.csv) was then used in our modelling [notebooks](https://github.com/StarkArk/Tailored_Tails/tree/main/Modeling) to produce 
-our ['Random Forest Model'](https://github.com/StarkArk/Tailored_Tails/blob/main/Modeling/breed_rf_model.pkl). 24 features are used to predict 50 possible targets(Breeds). With some experimentation we settled on Random Forest Classifier model. Other models were explored as well and
+our ['Model'](https://github.com/StarkArk/Tailored_Tails/blob/main/Modeling/breed_rf_model.pkl). 24 features were used to predict 50 possible targets(Breeds). With some experimentation we settled on a Random Forest Classifier model. Other models were explored as well and
 ,after some optimization, they produced results that were in line with what was obtained from the Random Forest Classifier.
 
 ## Model Performance  
@@ -51,8 +51,13 @@ having similar traits to other dogs in the dataset and having fewer examples rep
 Possible Reasons:  
   
 - There are only 71 'Bloodhound' entries and the model was trained on a total 206,816 registrations. Perhaps there were not enough entries to pick up a distinct pattern.
-- The 'Bloodhound' could share common traits with other more prevalent Breeds.
-- The owner profiles for those who licensed a 'Bloodhound' could be diverse and the model may not be able to find a distinquishable pattern in them.  
+- The 'Bloodhound' shares common traits with another more prevalent breed, the 'Rhodesian Ridgeback', which outnumbers the Bloodhound 8 to 1 in the training data.
+- Additionally, the owner profiles for those who licensed a 'Bloodhound' could be diverse and the model may not have been able to find a distinquishing pattern in them.  
+
+Possible Solutions for future iterations:  
+  
+- Add an over or under balanced 'sampler' to our model to correct for under/over represented breeds in the data
+- Add back more owner features to the dataset, allowing the model to find more distinguishing patterns between similar breeds.  
   
 ## Resources
 ### Libraries and Dependencies  
