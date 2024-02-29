@@ -3,12 +3,12 @@
 ![puppies](https://github.com/StarkArk/Tailored_Tails/blob/main/Visualizations/images/istockphoto-puppies.png)  
   
 ## Finding Your Ideal Dog Companion
-Our initiative, tailored_tails, is dedicated to helping potential dog owners navigate the adoption process with confidence. By collecting and analyzing diverse data within a Machine Learning Model, we provide personalized recommendations on dog breeds that best match individual lifestyles and preferences.
-
-## Our Dogs, A New York Story  
-
+Our initiative, tailored_tails, is dedicated to helping potential dog owners navigate the adoption process with confidence. By collecting and analyzing diverse data within a Machine Learning Model, we provide personalized recommendations on dog breeds that best match individual lifestyles and preferences.  
+  
+## Our Dogs, A New York Story   
+  
 A New York Dog Story: [Tableau Story](https://public.tableau.com/app/profile/wingtung.lee/viz/UCB_Bootcamp_Project4-5/Story1)
-
+  
 ## Meet the Minds Behind tailored_tails
 
 ![The_Team](https://github.com/StarkArk/Tailored_Tails/blob/main/Visualizations/images/Profiles_Project_Members/our_team.PNG)
@@ -18,7 +18,11 @@ A New York Dog Story: [Tableau Story](https://public.tableau.com/app/profile/win
 To identify the most suitable dog breed, we gathered the following information and integrated some of them into our machine learning model:
 * **Characteristics of the Dog:** Ability to Learn, Personality, Activity Level
 * **Lifestyle of the Owner:** Gender, Age, Type of Family, Living Area
-* **Cost Considerations:** Regularity of Grooming, Overall Ownership Expenses 
+* **Cost Considerations:** Regularity of Grooming, Overall Ownership Expenses  
+  
+## Web App  
+  
+![Front Page](https://github.com/StarkArk/Tailored_Tails/blob/main/Visualizations/images/web_app_frontpage.png)  
   
 ## Resources
 ### Libraries and Dependencies  
