@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tailored Tails</title>
+    <style>
+        body {
+            background-image: url('../static/NYC2png_City_8_C.jpg'); /* Relative path to your image */
+            background-size: cover; /* Cover the entire background */
+            background-repeat: no-repeat; /* Do not repeat the background image */
+            font-family: Arial, sans-serif; /* Specify a fallback font family */
+            padding: 20px; /* Add some padding for better readability */
+        }
+        h1 {
+            color: white; /* Change the color of the title to white */
+        }
+        /* Style for the prediction form */
+        #prediction-form {
+            background-color: rgba(255, 255, 255, 0.7); /* Semi-transparent white background */
+            padding: 20px;
+            border-radius: 10px;
+            max-width: 400px; /* Limit the width of the form */
+            margin: 0 auto; /* Center the form horizontally */
+        }
+
+        /* Style for the prediction result */
+        #prediction-result {
+            background-color: rgba(255, 255, 255, 0.7); /* Semi-transparent white background */
+            padding: 10px; /* Add padding */
+            border-radius: 5px; /* Add rounded corners */
+            text-align: center; /* Center the text */
+            margin-top: 20px; /* Add some space between the form and the result */
+        }
+
+        #breed-description {
+            margin-top: 20px; /* Add some space between the result and the description */
+            padding: 20px; /* Add padding */
+            background-color: rgba(255, 255, 255, 0.7); /* Semi-transparent white background */
+            border-radius: 5px; /* Add rounded corners */
+        }
+
+        #breed-image {
+            margin-top: 20px; /* Add some space between the description and the image */
+            max-width: 300px; /* Limit the width of the image */
+            display: none; /* Initially hide the image */
+            margin-left: auto;
+            margin-right: auto;
+        }
+    </style>
+</head>
+<body>
+    <h1>Tailored Tails</h1>
+    
+    <form id="prediction-form">
+        <!-- Include dropdowns for all 11 features -->
+        
+        <!-- Borough -->
+        <label for="borough">Borough:</label>
+        <select id="borough" name="borough" required>
+            <option value="Bronx">Bronx</option>
+            <option value="Brooklyn">Brooklyn</option>
+            <option value="Manhattan">Manhattan</option>
+            <option value="Queens">Queens</option>
+            <option value="Staten Island">Staten Island</option>
+        </select><br><br>
+        
+        <!-- Dog Friendly -->
+        <label for="dog_friendly">Dog Friendly Area:</label>
+        <select id="dog_friendly" name="dog_friendly" required>
+            <option value="Yes">Yes</option>
+            <option value="No">No</option>
+        </select><br><br>
+
+        <!-- Grooming Frequency -->
+        <label for="grooming_frequency">Grooming Frequency:</label>
+        <select id="grooming_frequency" name="grooming_frequency" required>
+            <option value="Low">Low</option>
+            <option value="Moderate">Moderate</option>
+            <option value="High">High</option>
+        </select><br><br>
+        
+        <!-- Shedding -->
+        <label for="shedding">Shedding:</label>
+        <select id="shedding" name="shedding" required>
+            <option value="Low">Low</option>
+            <option value="Moderate">Moderate</option>
+            <option value="High">High</option>
+        </select><br><br>
+        
+        <!-- Energy Level -->
+        <label for="energy_level">Energy Level:</label>
+        <select id="energy_level" name="energy_level" required>
+            <option value="Low">Low</option>
+            <option value="Moderate">Moderate</option>
+            <option value="High">High</option>
+        </select><br><br>
+        
+        <!-- Trainability -->
+        <label for="trainability">Trainability:</label>
+        <select id="trainability" name="trainability" required>
+            <option value="Low">Low</option>
+            <option value="Moderate">Moderate</option>
+            <option value="High">High</option>
+        </select><br><br>
+        
+        <!-- Demeanor -->
+        <label for="demeanor">Socialbility:</label>
+        <select id="demeanor" name="demeanor" required>
+            <option value="Low">Low</option>
+            <option value="Moderate">Moderate</option>
+            <option value="High">High</option>
+        </select><br><br>
+        
+        <!-- Life Expectancy -->
+        <label for="life_expectancy">Life Expectancy:</label>
+        <select id="life_expectancy" name="life_expectancy" required>
+            <option value="Short">Short</option>
+            <option value="Moderate">Moderate</option>
+            <option value="Long">Long</option>
+        </select><br><br>
+        
+        <!-- Income Category -->
+        <label for="income">Income Category:</label>
+        <select id="income" name="income" required>
+            <option value="Low">Low</option>
+            <option value="Middle">Middle</option>
+            <option value="High">High</option>
+        </select><br><br>
+        
+        <!-- Size Category -->
+        <label for="dog_size">Size Category:</label>
+        <select id="dog_size" name="dog_size" required>
+            <option value="Small (9-35lb)">Small (9-35lb)</option>
+            <option value="Medium (36-49lb)">Medium (36-49lb)</option>
+            <option value="Large (50lb+)">Large (50lb+)</option>
+        </select><br><br>
+        
+        <!-- Lifetime Cost -->
+        <label for="lifetime_cost">Lifetime Cost:</label>
+        <select id="lifetime_cost" name="lifetime_cost" required>
+            <option value="Low">Low</option>
+            <option value="Medium">Medium</option>
+            <option value="High">High</option>
+        </select><br><br>
+        
+        <button type="button" onclick="predictBreed()">Predict Breed</button>
+    </form>
+
+    <div id="prediction-result"></div>
+    <div id="breed-description"></div>
+    <img id="breed-image" src="" alt="Breed Image">
+
+    <script>
+        function predictBreed() {
+            // Get values for all 11 features from the form
+            var data = {};
+            var selects = document.querySelectorAll("select");
+            selects.forEach(function(select) {
+                data[select.name] = select.value;
+            });
+            
+            // Send a POST request to the Flask server
+            fetch('/predict', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify(data),
+            })
+            .then(response => response.json())
+            .then(data => {
+                // Display the prediction result
+                document.getElementById("prediction-result").innerText = "Predicted Breed: " + data.prediction;
+
+                // Fetch breed description and image based on the predicted breed
+                fetch(`/breed_info/${data.prediction}`)
+                    .then(response => response.json())
+                    .then(breedData => {
+                        // Display breed description
+                        document.getElementById("breed-description").innerText = breedData.description;
+
+                        // Display breed image
+                        document.getElementById("breed-image").src = breedData.image_url;
+                        document.getElementById("breed-image").style.display = "block"; // Show the image
+                    })
+                    .catch(error => {
+                        console.error('Error fetching breed info:', error);
+                    });
+            })
+            .catch((error) => {
+                console.error('Error:', error);
+            });
+        }
+    </script>
+</body>
+</html>
