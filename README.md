@@ -102,4 +102,10 @@ Tableau
 
 #### Dog Costs  
   
-- The iHeartDogs [iheartdogs](https://www.iHeartDogs.com)
+- The iHeartDogs [iheartdogs](https://www.iHeartDogs.com)  
+  
+#### Image Resources  
+  
+- Create your own avatar! [Avatar Maker](https://avatarmaker.com/)
+- Dog Photos! [Unsplash-DogImages](https://unsplash.com/s/photos/image-dog)
+  
