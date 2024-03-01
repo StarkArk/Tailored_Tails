@@ -100,8 +100,9 @@ Tableau
 
 - IRS Income Data, Tax Year 2020 [IRS Data](https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-2020-zip-code-data-soi)
 
-#### Dog Costs  
-  
+#### Dog Costs 
+
+- Most Expensive Dog Breeds [Kaggle](https://www.kaggle.com/code/paultimothymooney/most-expensive-dog-breeds-by-lifetime-cost/input?select=best_in_show.csv)  
 - The iHeartDogs [iheartdogs](https://www.iHeartDogs.com)  
   
 #### Image Resources  
