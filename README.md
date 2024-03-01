@@ -61,9 +61,9 @@ Possible Solutions for future iterations:
   
 ## Next Steps  
   
-We learned alot from this project. Future steps would include refining the number of features in the model and balancing that with the usability of the deployed web app. This would include scaling up the app to predict all the 200 American Kennel Club breeds. 
+We learned a lot from this project. Future steps would include refining the number of features in the model and balancing that with the usability of the deployed web app. This would include scaling up the app to predict all the 200 American Kennel Club breeds. 
 One possibility for the app would be to include two prediction models. An owner profile driven app that includes all the features from our model with additional prospective owner features(size of household, age, gender, living area...etc.). Another more advanced app
-would include most or all of the distiguishing dog breed traits from the AKC data.  
+would include most or all of the distinguishing dog breed traits from the AKC data.  
   
 ## Resources
 ### Libraries and Dependencies  
