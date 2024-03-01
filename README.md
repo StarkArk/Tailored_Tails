@@ -102,7 +102,8 @@ Tableau
 
 #### Dog Costs 
 
-- Most Expensive Dog Breeds [Kaggle](https://www.kaggle.com/code/paultimothymooney/most-expensive-dog-breeds-by-lifetime-cost/input?select=best_in_show.csv)  
+- Most Expensive Dog Breeds [Kaggle](https://www.kaggle.com/code/paultimothymooney/most-expensive-dog-breeds-by-lifetime-cost/input?select=best_in_show.csv) 
+- More on Dog Costs [Spot](https://spotpetins.com/blog/breed-tips/how-much-does-a-belgian-malinois-cost) 
 - The iHeartDogs [iheartdogs](https://www.iHeartDogs.com)  
   
 #### Image Resources  
