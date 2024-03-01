@@ -65,6 +65,9 @@ We learned a lot from this project. Future steps would include refining the numb
 One possibility for the app would be to include two prediction models. An owner profile driven app that includes all the features from our model with additional prospective owner features(size of household, age, gender, living area...etc.). Another more advanced app
 would include most or all of the distinguishing dog breed traits from the AKC data.  
   
+If we were to push it even further, we would love to connect with services like Petfinder.com and reputable breeders to connect future pet owners with local pets that fit their lifestyles. 
+Our hope is that accurate recommendations could help cut down the number of pets that are returned to breeders or rescues because the animals were not a good fit for the family.    
+  
 ## Resources
 ### Libraries and Dependencies  
 Python Pandas  
